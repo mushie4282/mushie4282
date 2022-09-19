@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mushie4282
-- 👀 I’m interested in software and hardware. I love sports and photography. 
-- 🌱 I’m currently learning embedded systems. 
+- 👀 I’m studying computer engineering. 
+- 🌱 I’m currently learning embedded systems and digital logic design. 
 - 📫 Contact: tranmichelle0826@yahoo.com
 
 <!---
