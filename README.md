@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mushie4282
-- 👀 I’m studying computer engineering. 
-- 🌱 I’m currently learning embedded systems and digital logic design. 
+- 👀 I’m studying computer engineering at CSULB. 
 - 📫 Contact: tranmichelle0826@yahoo.com
 
 <!---
